@@ -1,6 +1,6 @@
 # geogsbing
 
-
+[![Software License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![image](https://img.shields.io/pypi/v/geogsbing.svg)](https://pypi.python.org/pypi/geogsbing)
 [![image](https://img.shields.io/conda/vn/conda-forge/geogsbing.svg)](https://anaconda.org/conda-forge/geogsbing)
 
