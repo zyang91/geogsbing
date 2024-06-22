@@ -1,0 +1,4 @@
+ 
+# geogsbing module
+
+::: geogsbing.geogsbing
